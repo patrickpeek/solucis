@@ -1,0 +1,19 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="#ffffff" stroke="#0f3460" stroke-opacity="0.12" stroke-width="1"/>
+  <g transform="translate(32 32)">
+    <!-- converging lines from left -->
+    <line x1="-22" y1="-17" x2="-3" y2="0" stroke="#0f3460" stroke-width="1.6" stroke-linecap="round"/>
+    <line x1="-24" y1="-9"  x2="-3" y2="0" stroke="#0f3460" stroke-width="1.6" stroke-linecap="round"/>
+    <line x1="-25" y1="0"   x2="-3" y2="0" stroke="#0f3460" stroke-width="1.6" stroke-linecap="round"/>
+    <line x1="-24" y1="9"   x2="-3" y2="0" stroke="#0f3460" stroke-width="1.6" stroke-linecap="round"/>
+    <line x1="-22" y1="17"  x2="-3" y2="0" stroke="#0f3460" stroke-width="1.6" stroke-linecap="round"/>
+    <!-- burst point -->
+    <circle cx="0" cy="0" r="3.4" fill="#e8a020"/>
+    <!-- rays fanning out -->
+    <line x1="0" y1="0" x2="20" y2="-15" stroke="#e8a020" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="23" y2="-7"  stroke="#e8a020" stroke-width="1.7" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="24" y2="0"   stroke="#e8a020" stroke-width="1.9" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="23" y2="7"   stroke="#e8a020" stroke-width="1.7" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="20" y2="15"  stroke="#e8a020" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>
